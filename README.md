@@ -22,7 +22,7 @@ Instrumentation amplifiers are widely used in:
 
 ---
 
-## ⚙️ Circuit Design
+## Circuit Design
 
 ### Parameters:
 - R1 = R2 = RF = 10 kΩ
@@ -53,11 +53,10 @@ Ad = 1 + (2 × 10k / 10k) = 3
 * Supply: 5V
 * Breadboard implementation
 
-*(Insert circuit images here)*
 
 ---
 
-## 📊 Results
+##  Results
 
 ### Input Conditions:
 
