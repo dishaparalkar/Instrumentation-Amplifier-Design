@@ -25,22 +25,23 @@ Instrumentation amplifiers are widely used in:
 ## Circuit Design
 
 ### Parameters:
-
+$$
 * ( R_1 = R_2 = R_F = 10k\Omega )
-* ( R_G = 10k\Omega )
-
+$$
+$$
+( R_G = 10k\Omega )
+$$
 ### Gain Formula:
 
-[
+$$
 A_d = 1 + \frac{2R}{R_G}
-]
+$$
 
 ### Calculation:
 
-[
+$$
 A_d = 1 + \frac{2 \times 10k}{10k} = 3
-]
-
+$$
 ---
 
 ## Simulation (LTSpice)
@@ -51,7 +52,6 @@ A_d = 1 + \frac{2 \times 10k}{10k} = 3
 * Gain ≈ 3 verified
 * Proper amplification of sine wave observed
 
-*(Insert LTSpice screenshots here)*
 
 ---
 
