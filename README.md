@@ -22,27 +22,19 @@ Instrumentation amplifiers are widely used in:
 
 ---
 
-## Circuit Design
+## ⚙️ Circuit Design
 
 ### Parameters:
-$$
-* ( R_1 = R_2 = R_F = 10k\Omega )
-$$
-$$
-( R_G = 10k\Omega )
-$$
+- R1 = R2 = RF = 10 kΩ
+- RG = 10 kΩ
+
 ### Gain Formula:
 
-$$
-A_d = 1 + \frac{2R}{R_G}
-$$
+Ad = 1 + (2R / RG)
 
 ### Calculation:
 
-$$
-A_d = 1 + \frac{2 \times 10k}{10k} = 3
-$$
----
+Ad = 1 + (2 × 10k / 10k) = 3
 
 ## Simulation (LTSpice)
 
