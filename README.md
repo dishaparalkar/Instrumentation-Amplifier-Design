@@ -82,14 +82,14 @@ V_{out} = 3 \times 0.2 = 0.6V
 
 ---
 
-## 📉 Frequency Response
+##Frequency Response
 
 * Gain remains constant at low frequencies
 * Gain decreases at higher frequencies due to op-amp limitations
 
 ---
 
-## 💡 Key Learnings
+## Key Learnings
 
 * Instrumentation amplifiers provide high input impedance and good common-mode rejection
 * Proper resistor matching is critical for accurate gain
@@ -98,7 +98,7 @@ V_{out} = 3 \times 0.2 = 0.6V
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Use precision resistors for better accuracy
 * Implement PCB instead of breadboard
@@ -107,17 +107,17 @@ V_{out} = 3 \times 0.2 = 0.6V
 
 ---
 
-## 🧠 Conclusion
+## Conclusion
 
 The instrumentation amplifier was successfully designed and implemented for a gain of 3. Both simulation and hardware results confirmed correct operation and linear amplification behavior.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Disha Paralkar**
 BS in Electronic Systems, IIT Madras
-GitHub: dishaparalkar
+
 
 ---
  
